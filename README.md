@@ -1,6 +1,6 @@
 # 📦 Backup com S3 + Lambda
 
-![Desafio 1](Desafio1.png)
+![Desafio 1](images/Desafio1.png)
 
 ## 📌 Sobre o projeto
 
